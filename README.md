@@ -129,9 +129,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Prepakis Georgios - [prepakis.geo@gmail.com](mailto:prepakis.geo@gmail.com)
-
 Project Link: [https://github.com/0xG4st/Discord-CVE/](https://github.com/0xG4st/Discord-CVE/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
